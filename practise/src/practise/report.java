@@ -4,7 +4,7 @@ public class report {
 	report(){
 		String name;
 		int rollno;
-		
+		int nn;
 	}
 
 	public static void main(String[] args) {
